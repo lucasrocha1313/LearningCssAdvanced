@@ -1,0 +1,22 @@
+{
+  "name": "css_adv_learning",
+  "version": "1.0.0",
+  "description": "Learning page for CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrocha1313/LearningCssAdvanced.git"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasrocha1313/LearningCssAdvanced/issues"
+  },
+  "homepage": "https://github.com/lucasrocha1313/LearningCssAdvanced#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
